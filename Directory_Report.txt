@@ -1,0 +1,17 @@
+File: Scotland city guide.txt
+Size: 176 bytes
+Extension: .txt
+Modified: 2026-07-08 13:54:15
+
+Folder: Maps
+
+File: data.csv
+Size: 186 bytes
+Extension: .csv
+Modified: 2026-07-08 11:34:23
+
+File: Picture.jpg
+Size: 464690 bytes
+Extension: .jpg
+Modified: 2026-07-08 11:19:39
+
