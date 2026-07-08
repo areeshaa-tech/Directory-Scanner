@@ -2,6 +2,7 @@
 A Python directory scanner that lists files and folders, retrieves file information, and generates a directory report.
 ##  Features
 - Scan a directory
+- How to add a subfolder in a folder
 - list files and subfolders
 - display file size
 - display modified date
